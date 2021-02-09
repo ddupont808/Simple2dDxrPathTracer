@@ -3,6 +3,9 @@
 Simple 2D PathTracer implemented in Unity and powered by DXR
 
 Based off of https://github.com/SlightlyMad/SimpleDxrPathTracer
+
+Spiritual successor to https://github.com/ddupont808/Unity2D-Pathtracer
+
 * Dead simple. Only few hundred lines of code. No Monte Carlo integration, no probability distribution functions, no importance sampling, a crude denoising implementation. It should be easy to follow (assuming you know what a path-tracer is)
 * Implemented for default unity renderer
 * Four simple material types (diffuse, metal, glass and emissive material)
