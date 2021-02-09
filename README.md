@@ -1,6 +1,7 @@
 # 2D DXR PathTracer in Unity
 
 Simple 2D PathTracer implemented in Unity and powered by DXR
+
 Based off of https://github.com/SlightlyMad/SimpleDxrPathTracer
 * Dead simple. Only few hundred lines of code. No Monte Carlo integration, no probability distribution functions, no importance sampling, a crude denoising implementation. It should be easy to follow (assuming you know what a path-tracer is)
 * Implemented for default unity renderer
